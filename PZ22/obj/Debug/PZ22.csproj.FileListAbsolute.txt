@@ -1,0 +1,7 @@
+D:\Projects\PZ22\bin\Debug\PZ22.exe.config
+D:\Projects\PZ22\bin\Debug\PZ22.exe
+D:\Projects\PZ22\bin\Debug\PZ22.pdb
+D:\Projects\PZ22\obj\Debug\PZ22.csproj.AssemblyReference.cache
+D:\Projects\PZ22\obj\Debug\PZ22.csproj.CoreCompileInputs.cache
+D:\Projects\PZ22\obj\Debug\PZ22.exe
+D:\Projects\PZ22\obj\Debug\PZ22.pdb
